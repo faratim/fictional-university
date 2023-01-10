@@ -1,0 +1,621 @@
+[15-Dec-2022 18:56:57 UTC] PHP Parse error:  syntax error, unexpected 'filter' (T_STRING) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 101
+[15-Dec-2022 18:57:06 UTC] PHP Parse error:  syntax error, unexpected 'filter' (T_STRING) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 101
+[15-Dec-2022 18:57:06 UTC] PHP Parse error:  syntax error, unexpected 'filter' (T_STRING) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 101
+[15-Dec-2022 18:57:06 UTC] PHP Parse error:  syntax error, unexpected 'filter' (T_STRING) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 101
+[15-Dec-2022 20:19:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single-program.php on line 96
+[15-Dec-2022 20:19:47 UTC] PHP Parse error:  syntax error, unexpected '.' in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single-program.php on line 95
+[15-Dec-2022 20:19:59 UTC] PHP Parse error:  syntax error, unexpected '.' in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single-program.php on line 95
+[19-Dec-2022 19:14:13 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 7
+[19-Dec-2022 19:14:40 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 7
+[19-Dec-2022 19:15:18 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'univesity_custom_rest' not found or invalid function name in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php on line 308
+[19-Dec-2022 19:15:18 UTC] PHP Stack trace:
+[19-Dec-2022 19:15:18 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[19-Dec-2022 19:15:18 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[19-Dec-2022 19:15:18 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[19-Dec-2022 19:15:18 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[19-Dec-2022 19:15:18 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[19-Dec-2022 19:15:18 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[19-Dec-2022 19:15:18 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[19-Dec-2022 19:15:18 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 19:15:18 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[19-Dec-2022 19:15:18 UTC] PHP  10. rest_get_server() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:403
+[19-Dec-2022 19:15:18 UTC] PHP  11. do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:577
+[19-Dec-2022 19:15:18 UTC] PHP  12. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:517
+[19-Dec-2022 19:15:18 UTC] PHP  13. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 19:15:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1752
+[19-Dec-2022 19:15:18 UTC] PHP Stack trace:
+[19-Dec-2022 19:15:18 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[19-Dec-2022 19:15:18 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[19-Dec-2022 19:15:18 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[19-Dec-2022 19:15:18 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[19-Dec-2022 19:15:18 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[19-Dec-2022 19:15:18 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[19-Dec-2022 19:15:18 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[19-Dec-2022 19:15:18 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 19:15:18 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[19-Dec-2022 19:15:18 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:410
+[19-Dec-2022 19:15:18 UTC] PHP  11. WP_REST_Server->send_header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:310
+[19-Dec-2022 19:15:18 UTC] PHP  12. header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1752
+[19-Dec-2022 19:15:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1752
+[19-Dec-2022 19:15:18 UTC] PHP Stack trace:
+[19-Dec-2022 19:15:18 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[19-Dec-2022 19:15:18 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[19-Dec-2022 19:15:18 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[19-Dec-2022 19:15:18 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[19-Dec-2022 19:15:18 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[19-Dec-2022 19:15:18 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[19-Dec-2022 19:15:18 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[19-Dec-2022 19:15:18 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 19:15:18 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[19-Dec-2022 19:15:18 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:410
+[19-Dec-2022 19:15:18 UTC] PHP  11. WP_REST_Server->send_header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:311
+[19-Dec-2022 19:15:18 UTC] PHP  12. header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1752
+[19-Dec-2022 19:15:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1752
+[19-Dec-2022 19:15:18 UTC] PHP Stack trace:
+[19-Dec-2022 19:15:18 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[19-Dec-2022 19:15:18 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[19-Dec-2022 19:15:18 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[19-Dec-2022 19:15:18 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[19-Dec-2022 19:15:18 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[19-Dec-2022 19:15:18 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[19-Dec-2022 19:15:18 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[19-Dec-2022 19:15:18 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 19:15:18 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[19-Dec-2022 19:15:18 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:410
+[19-Dec-2022 19:15:18 UTC] PHP  11. WP_REST_Server->send_header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:315
+[19-Dec-2022 19:15:18 UTC] PHP  12. header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1752
+[19-Dec-2022 19:15:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1752
+[19-Dec-2022 19:15:18 UTC] PHP Stack trace:
+[19-Dec-2022 19:15:18 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[19-Dec-2022 19:15:18 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[19-Dec-2022 19:15:18 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[19-Dec-2022 19:15:18 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[19-Dec-2022 19:15:18 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[19-Dec-2022 19:15:18 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[19-Dec-2022 19:15:18 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[19-Dec-2022 19:15:18 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 19:15:18 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[19-Dec-2022 19:15:18 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:410
+[19-Dec-2022 19:15:18 UTC] PHP  11. WP_REST_Server->send_header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:323
+[19-Dec-2022 19:15:18 UTC] PHP  12. header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1752
+[19-Dec-2022 19:15:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1752
+[19-Dec-2022 19:15:18 UTC] PHP Stack trace:
+[19-Dec-2022 19:15:18 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[19-Dec-2022 19:15:18 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[19-Dec-2022 19:15:18 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[19-Dec-2022 19:15:18 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[19-Dec-2022 19:15:18 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[19-Dec-2022 19:15:18 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[19-Dec-2022 19:15:18 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[19-Dec-2022 19:15:18 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 19:15:18 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[19-Dec-2022 19:15:18 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:410
+[19-Dec-2022 19:15:18 UTC] PHP  11. WP_REST_Server->send_header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:335
+[19-Dec-2022 19:15:18 UTC] PHP  12. header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1752
+[19-Dec-2022 19:15:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1752
+[19-Dec-2022 19:15:18 UTC] PHP Stack trace:
+[19-Dec-2022 19:15:18 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[19-Dec-2022 19:15:18 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[19-Dec-2022 19:15:18 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[19-Dec-2022 19:15:18 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[19-Dec-2022 19:15:18 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[19-Dec-2022 19:15:18 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[19-Dec-2022 19:15:18 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[19-Dec-2022 19:15:18 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 19:15:18 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[19-Dec-2022 19:15:18 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:410
+[19-Dec-2022 19:15:18 UTC] PHP  11. WP_REST_Server->send_header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:359
+[19-Dec-2022 19:15:18 UTC] PHP  12. header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1752
+[19-Dec-2022 19:15:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1752
+[19-Dec-2022 19:15:18 UTC] PHP Stack trace:
+[19-Dec-2022 19:15:18 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[19-Dec-2022 19:15:18 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[19-Dec-2022 19:15:18 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[19-Dec-2022 19:15:18 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[19-Dec-2022 19:15:18 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[19-Dec-2022 19:15:18 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[19-Dec-2022 19:15:18 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[19-Dec-2022 19:15:18 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 19:15:18 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[19-Dec-2022 19:15:18 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:410
+[19-Dec-2022 19:15:18 UTC] PHP  11. WP_REST_Server->send_header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:374
+[19-Dec-2022 19:15:18 UTC] PHP  12. header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1752
+[19-Dec-2022 19:15:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1752
+[19-Dec-2022 19:15:18 UTC] PHP Stack trace:
+[19-Dec-2022 19:15:18 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[19-Dec-2022 19:15:18 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[19-Dec-2022 19:15:18 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[19-Dec-2022 19:15:18 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[19-Dec-2022 19:15:18 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[19-Dec-2022 19:15:18 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[19-Dec-2022 19:15:18 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[19-Dec-2022 19:15:18 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 19:15:18 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[19-Dec-2022 19:15:18 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:410
+[19-Dec-2022 19:15:18 UTC] PHP  11. WP_REST_Server->send_header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:374
+[19-Dec-2022 19:15:18 UTC] PHP  12. header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1752
+[19-Dec-2022 19:15:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1776
+[19-Dec-2022 19:15:18 UTC] PHP Stack trace:
+[19-Dec-2022 19:15:18 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[19-Dec-2022 19:15:18 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[19-Dec-2022 19:15:18 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[19-Dec-2022 19:15:18 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[19-Dec-2022 19:15:18 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[19-Dec-2022 19:15:18 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[19-Dec-2022 19:15:18 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[19-Dec-2022 19:15:18 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 19:15:18 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[19-Dec-2022 19:15:18 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:410
+[19-Dec-2022 19:15:18 UTC] PHP  11. WP_REST_Server->remove_header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:372
+[19-Dec-2022 19:15:18 UTC] PHP  12. header_remove() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1776
+[19-Dec-2022 19:15:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1752
+[19-Dec-2022 19:15:18 UTC] PHP Stack trace:
+[19-Dec-2022 19:15:18 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[19-Dec-2022 19:15:18 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[19-Dec-2022 19:15:18 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[19-Dec-2022 19:15:18 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[19-Dec-2022 19:15:18 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[19-Dec-2022 19:15:18 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[19-Dec-2022 19:15:18 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[19-Dec-2022 19:15:18 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 19:15:18 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[19-Dec-2022 19:15:18 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:410
+[19-Dec-2022 19:15:18 UTC] PHP  11. WP_REST_Server->send_headers() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:475
+[19-Dec-2022 19:15:18 UTC] PHP  12. WP_REST_Server->send_header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1764
+[19-Dec-2022 19:15:18 UTC] PHP  13. header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1752
+[19-Dec-2022 19:15:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1752
+[19-Dec-2022 19:15:18 UTC] PHP Stack trace:
+[19-Dec-2022 19:15:18 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[19-Dec-2022 19:15:18 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[19-Dec-2022 19:15:18 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[19-Dec-2022 19:15:18 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[19-Dec-2022 19:15:18 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[19-Dec-2022 19:15:18 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[19-Dec-2022 19:15:18 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[19-Dec-2022 19:15:18 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 19:15:18 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[19-Dec-2022 19:15:18 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:410
+[19-Dec-2022 19:15:18 UTC] PHP  11. WP_REST_Server->send_headers() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:475
+[19-Dec-2022 19:15:18 UTC] PHP  12. WP_REST_Server->send_header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1764
+[19-Dec-2022 19:15:18 UTC] PHP  13. header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1752
+[19-Dec-2022 19:15:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1752
+[19-Dec-2022 19:15:18 UTC] PHP Stack trace:
+[19-Dec-2022 19:15:18 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[19-Dec-2022 19:15:18 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[19-Dec-2022 19:15:18 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[19-Dec-2022 19:15:18 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[19-Dec-2022 19:15:18 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[19-Dec-2022 19:15:18 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[19-Dec-2022 19:15:18 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[19-Dec-2022 19:15:18 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 19:15:18 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[19-Dec-2022 19:15:18 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:410
+[19-Dec-2022 19:15:18 UTC] PHP  11. WP_REST_Server->send_headers() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:475
+[19-Dec-2022 19:15:18 UTC] PHP  12. WP_REST_Server->send_header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1764
+[19-Dec-2022 19:15:18 UTC] PHP  13. header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1752
+[19-Dec-2022 19:27:44 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university-post-types.php on line 59
+[19-Dec-2022 19:40:46 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'unversityRegisterSearch' not found or invalid function name in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php on line 308
+[19-Dec-2022 19:40:46 UTC] PHP Stack trace:
+[19-Dec-2022 19:40:46 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[19-Dec-2022 19:40:46 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[19-Dec-2022 19:40:46 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[19-Dec-2022 19:40:46 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[19-Dec-2022 19:40:46 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[19-Dec-2022 19:40:46 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[19-Dec-2022 19:40:46 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[19-Dec-2022 19:40:46 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 19:40:46 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[19-Dec-2022 19:40:46 UTC] PHP  10. rest_get_server() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:403
+[19-Dec-2022 19:40:46 UTC] PHP  11. do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:577
+[19-Dec-2022 19:40:46 UTC] PHP  12. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:517
+[19-Dec-2022 19:40:46 UTC] PHP  13. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 19:40:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1752
+[19-Dec-2022 19:40:46 UTC] PHP Stack trace:
+[19-Dec-2022 19:40:46 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[19-Dec-2022 19:40:46 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[19-Dec-2022 19:40:46 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[19-Dec-2022 19:40:46 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[19-Dec-2022 19:40:46 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[19-Dec-2022 19:40:46 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[19-Dec-2022 19:40:46 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[19-Dec-2022 19:40:46 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 19:40:46 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[19-Dec-2022 19:40:46 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:410
+[19-Dec-2022 19:40:46 UTC] PHP  11. WP_REST_Server->send_header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:310
+[19-Dec-2022 19:40:46 UTC] PHP  12. header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1752
+[19-Dec-2022 19:40:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1752
+[19-Dec-2022 19:40:46 UTC] PHP Stack trace:
+[19-Dec-2022 19:40:46 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[19-Dec-2022 19:40:46 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[19-Dec-2022 19:40:46 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[19-Dec-2022 19:40:46 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[19-Dec-2022 19:40:46 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[19-Dec-2022 19:40:46 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[19-Dec-2022 19:40:46 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[19-Dec-2022 19:40:46 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 19:40:46 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[19-Dec-2022 19:40:46 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:410
+[19-Dec-2022 19:40:46 UTC] PHP  11. WP_REST_Server->send_header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:311
+[19-Dec-2022 19:40:46 UTC] PHP  12. header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1752
+[19-Dec-2022 19:40:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1752
+[19-Dec-2022 19:40:46 UTC] PHP Stack trace:
+[19-Dec-2022 19:40:46 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[19-Dec-2022 19:40:46 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[19-Dec-2022 19:40:46 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[19-Dec-2022 19:40:46 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[19-Dec-2022 19:40:46 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[19-Dec-2022 19:40:46 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[19-Dec-2022 19:40:46 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[19-Dec-2022 19:40:46 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 19:40:46 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[19-Dec-2022 19:40:46 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:410
+[19-Dec-2022 19:40:46 UTC] PHP  11. WP_REST_Server->send_header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:315
+[19-Dec-2022 19:40:46 UTC] PHP  12. header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1752
+[19-Dec-2022 19:40:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1752
+[19-Dec-2022 19:40:46 UTC] PHP Stack trace:
+[19-Dec-2022 19:40:46 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[19-Dec-2022 19:40:46 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[19-Dec-2022 19:40:46 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[19-Dec-2022 19:40:46 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[19-Dec-2022 19:40:46 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[19-Dec-2022 19:40:46 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[19-Dec-2022 19:40:46 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[19-Dec-2022 19:40:46 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 19:40:46 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[19-Dec-2022 19:40:46 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:410
+[19-Dec-2022 19:40:46 UTC] PHP  11. WP_REST_Server->send_header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:323
+[19-Dec-2022 19:40:46 UTC] PHP  12. header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1752
+[19-Dec-2022 19:40:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1752
+[19-Dec-2022 19:40:46 UTC] PHP Stack trace:
+[19-Dec-2022 19:40:46 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[19-Dec-2022 19:40:46 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[19-Dec-2022 19:40:46 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[19-Dec-2022 19:40:46 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[19-Dec-2022 19:40:46 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[19-Dec-2022 19:40:46 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[19-Dec-2022 19:40:46 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[19-Dec-2022 19:40:46 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 19:40:46 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[19-Dec-2022 19:40:46 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:410
+[19-Dec-2022 19:40:46 UTC] PHP  11. WP_REST_Server->send_header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:335
+[19-Dec-2022 19:40:46 UTC] PHP  12. header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1752
+[19-Dec-2022 19:40:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1752
+[19-Dec-2022 19:40:46 UTC] PHP Stack trace:
+[19-Dec-2022 19:40:46 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[19-Dec-2022 19:40:46 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[19-Dec-2022 19:40:46 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[19-Dec-2022 19:40:46 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[19-Dec-2022 19:40:46 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[19-Dec-2022 19:40:46 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[19-Dec-2022 19:40:46 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[19-Dec-2022 19:40:46 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 19:40:46 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[19-Dec-2022 19:40:46 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:410
+[19-Dec-2022 19:40:46 UTC] PHP  11. WP_REST_Server->send_header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:359
+[19-Dec-2022 19:40:46 UTC] PHP  12. header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1752
+[19-Dec-2022 19:40:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1752
+[19-Dec-2022 19:40:46 UTC] PHP Stack trace:
+[19-Dec-2022 19:40:46 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[19-Dec-2022 19:40:46 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[19-Dec-2022 19:40:46 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[19-Dec-2022 19:40:46 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[19-Dec-2022 19:40:46 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[19-Dec-2022 19:40:46 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[19-Dec-2022 19:40:46 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[19-Dec-2022 19:40:46 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 19:40:46 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[19-Dec-2022 19:40:46 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:410
+[19-Dec-2022 19:40:46 UTC] PHP  11. WP_REST_Server->send_header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:374
+[19-Dec-2022 19:40:46 UTC] PHP  12. header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1752
+[19-Dec-2022 19:40:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1752
+[19-Dec-2022 19:40:46 UTC] PHP Stack trace:
+[19-Dec-2022 19:40:46 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[19-Dec-2022 19:40:46 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[19-Dec-2022 19:40:46 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[19-Dec-2022 19:40:46 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[19-Dec-2022 19:40:46 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[19-Dec-2022 19:40:46 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[19-Dec-2022 19:40:46 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[19-Dec-2022 19:40:46 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 19:40:46 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[19-Dec-2022 19:40:46 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:410
+[19-Dec-2022 19:40:46 UTC] PHP  11. WP_REST_Server->send_header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:374
+[19-Dec-2022 19:40:46 UTC] PHP  12. header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1752
+[19-Dec-2022 19:40:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1776
+[19-Dec-2022 19:40:46 UTC] PHP Stack trace:
+[19-Dec-2022 19:40:46 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[19-Dec-2022 19:40:46 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[19-Dec-2022 19:40:46 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[19-Dec-2022 19:40:46 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[19-Dec-2022 19:40:46 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[19-Dec-2022 19:40:46 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[19-Dec-2022 19:40:46 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[19-Dec-2022 19:40:46 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 19:40:46 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[19-Dec-2022 19:40:46 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:410
+[19-Dec-2022 19:40:46 UTC] PHP  11. WP_REST_Server->remove_header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:372
+[19-Dec-2022 19:40:46 UTC] PHP  12. header_remove() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1776
+[19-Dec-2022 19:57:06 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php on line 22
+[19-Dec-2022 19:57:06 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php on line 22
+[19-Dec-2022 20:11:49 UTC] PHP Warning:  Use of undefined constant campuses - assumed 'campuses' (this will throw an Error in a future version of PHP) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php on line 23
+[19-Dec-2022 20:11:49 UTC] PHP Stack trace:
+[19-Dec-2022 20:11:49 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[19-Dec-2022 20:11:49 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[19-Dec-2022 20:11:49 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[19-Dec-2022 20:11:49 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[19-Dec-2022 20:11:49 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[19-Dec-2022 20:11:49 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[19-Dec-2022 20:11:49 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[19-Dec-2022 20:11:49 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 20:11:49 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[19-Dec-2022 20:11:49 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:410
+[19-Dec-2022 20:11:49 UTC] PHP  11. WP_REST_Server->dispatch() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:442
+[19-Dec-2022 20:11:49 UTC] PHP  12. WP_REST_Server->respond_to_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1018
+[19-Dec-2022 20:11:49 UTC] PHP  13. universitySearchResults() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1171
+[19-Dec-2022 20:11:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php:23) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1752
+[19-Dec-2022 20:11:49 UTC] PHP Stack trace:
+[19-Dec-2022 20:11:49 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[19-Dec-2022 20:11:49 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[19-Dec-2022 20:11:49 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[19-Dec-2022 20:11:49 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[19-Dec-2022 20:11:49 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[19-Dec-2022 20:11:49 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[19-Dec-2022 20:11:49 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[19-Dec-2022 20:11:49 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 20:11:49 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[19-Dec-2022 20:11:49 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:410
+[19-Dec-2022 20:11:49 UTC] PHP  11. WP_REST_Server->send_headers() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:475
+[19-Dec-2022 20:11:49 UTC] PHP  12. WP_REST_Server->send_header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1764
+[19-Dec-2022 20:11:49 UTC] PHP  13. header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1752
+[19-Dec-2022 20:12:31 UTC] PHP Warning:  Use of undefined constant campuses - assumed 'campuses' (this will throw an Error in a future version of PHP) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php on line 23
+[19-Dec-2022 20:12:31 UTC] PHP Stack trace:
+[19-Dec-2022 20:12:31 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[19-Dec-2022 20:12:31 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[19-Dec-2022 20:12:31 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[19-Dec-2022 20:12:31 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[19-Dec-2022 20:12:31 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[19-Dec-2022 20:12:31 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[19-Dec-2022 20:12:31 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[19-Dec-2022 20:12:31 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 20:12:31 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[19-Dec-2022 20:12:31 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:410
+[19-Dec-2022 20:12:31 UTC] PHP  11. WP_REST_Server->dispatch() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:442
+[19-Dec-2022 20:12:31 UTC] PHP  12. WP_REST_Server->respond_to_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1018
+[19-Dec-2022 20:12:31 UTC] PHP  13. universitySearchResults() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1171
+[19-Dec-2022 20:12:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php:23) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1752
+[19-Dec-2022 20:12:31 UTC] PHP Stack trace:
+[19-Dec-2022 20:12:31 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[19-Dec-2022 20:12:31 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[19-Dec-2022 20:12:31 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[19-Dec-2022 20:12:31 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[19-Dec-2022 20:12:31 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[19-Dec-2022 20:12:31 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[19-Dec-2022 20:12:31 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[19-Dec-2022 20:12:31 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 20:12:31 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[19-Dec-2022 20:12:31 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:410
+[19-Dec-2022 20:12:31 UTC] PHP  11. WP_REST_Server->send_headers() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:475
+[19-Dec-2022 20:12:31 UTC] PHP  12. WP_REST_Server->send_header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1764
+[19-Dec-2022 20:12:31 UTC] PHP  13. header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1752
+[19-Dec-2022 20:12:38 UTC] PHP Warning:  Use of undefined constant campuses - assumed 'campuses' (this will throw an Error in a future version of PHP) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php on line 23
+[19-Dec-2022 20:12:38 UTC] PHP Stack trace:
+[19-Dec-2022 20:12:38 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[19-Dec-2022 20:12:38 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[19-Dec-2022 20:12:38 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[19-Dec-2022 20:12:38 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[19-Dec-2022 20:12:38 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[19-Dec-2022 20:12:38 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[19-Dec-2022 20:12:38 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[19-Dec-2022 20:12:38 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 20:12:38 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[19-Dec-2022 20:12:38 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:410
+[19-Dec-2022 20:12:38 UTC] PHP  11. WP_REST_Server->dispatch() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:442
+[19-Dec-2022 20:12:38 UTC] PHP  12. WP_REST_Server->respond_to_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1018
+[19-Dec-2022 20:12:38 UTC] PHP  13. universitySearchResults() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1171
+[19-Dec-2022 20:12:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php:23) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1752
+[19-Dec-2022 20:12:38 UTC] PHP Stack trace:
+[19-Dec-2022 20:12:38 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[19-Dec-2022 20:12:38 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[19-Dec-2022 20:12:38 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[19-Dec-2022 20:12:38 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[19-Dec-2022 20:12:38 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[19-Dec-2022 20:12:38 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[19-Dec-2022 20:12:38 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[19-Dec-2022 20:12:38 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 20:12:38 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[19-Dec-2022 20:12:38 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:410
+[19-Dec-2022 20:12:38 UTC] PHP  11. WP_REST_Server->send_headers() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:475
+[19-Dec-2022 20:12:38 UTC] PHP  12. WP_REST_Server->send_header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1764
+[19-Dec-2022 20:12:38 UTC] PHP  13. header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1752
+[19-Dec-2022 20:13:21 UTC] PHP Warning:  Use of undefined constant campuses - assumed 'campuses' (this will throw an Error in a future version of PHP) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php on line 23
+[19-Dec-2022 20:13:21 UTC] PHP Stack trace:
+[19-Dec-2022 20:13:21 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[19-Dec-2022 20:13:21 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[19-Dec-2022 20:13:21 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[19-Dec-2022 20:13:21 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[19-Dec-2022 20:13:21 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[19-Dec-2022 20:13:21 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[19-Dec-2022 20:13:21 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[19-Dec-2022 20:13:21 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 20:13:21 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[19-Dec-2022 20:13:21 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:410
+[19-Dec-2022 20:13:21 UTC] PHP  11. WP_REST_Server->dispatch() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:442
+[19-Dec-2022 20:13:21 UTC] PHP  12. WP_REST_Server->respond_to_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1018
+[19-Dec-2022 20:13:21 UTC] PHP  13. universitySearchResults() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1171
+[19-Dec-2022 20:13:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php:23) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1752
+[19-Dec-2022 20:13:21 UTC] PHP Stack trace:
+[19-Dec-2022 20:13:21 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[19-Dec-2022 20:13:21 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[19-Dec-2022 20:13:21 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[19-Dec-2022 20:13:21 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[19-Dec-2022 20:13:21 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[19-Dec-2022 20:13:21 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[19-Dec-2022 20:13:21 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[19-Dec-2022 20:13:21 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[19-Dec-2022 20:13:21 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[19-Dec-2022 20:13:21 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:410
+[19-Dec-2022 20:13:21 UTC] PHP  11. WP_REST_Server->send_headers() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:475
+[19-Dec-2022 20:13:21 UTC] PHP  12. WP_REST_Server->send_header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1764
+[19-Dec-2022 20:13:21 UTC] PHP  13. header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1752
+[20-Dec-2022 19:19:34 UTC] PHP Parse error:  syntax error, unexpected ')' in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php on line 74
+[20-Dec-2022 19:19:35 UTC] PHP Parse error:  syntax error, unexpected ')' in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php on line 74
+[20-Dec-2022 19:19:35 UTC] PHP Parse error:  syntax error, unexpected ')' in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php on line 74
+[20-Dec-2022 19:19:36 UTC] PHP Parse error:  syntax error, unexpected ')' in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php on line 74
+[20-Dec-2022 19:19:36 UTC] PHP Parse error:  syntax error, unexpected ')' in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php on line 74
+[20-Dec-2022 19:52:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php on line 82
+[20-Dec-2022 19:52:30 UTC] PHP Stack trace:
+[20-Dec-2022 19:52:30 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[20-Dec-2022 19:52:30 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[20-Dec-2022 19:52:30 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[20-Dec-2022 19:52:30 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[20-Dec-2022 19:52:30 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[20-Dec-2022 19:52:30 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[20-Dec-2022 19:52:30 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[20-Dec-2022 19:52:30 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[20-Dec-2022 19:52:30 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[20-Dec-2022 19:52:30 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:410
+[20-Dec-2022 19:52:30 UTC] PHP  11. WP_REST_Server->dispatch() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:442
+[20-Dec-2022 19:52:30 UTC] PHP  12. WP_REST_Server->respond_to_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1018
+[20-Dec-2022 19:52:30 UTC] PHP  13. universitySearchResults() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1171
+[20-Dec-2022 19:52:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php:82) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1752
+[20-Dec-2022 19:52:30 UTC] PHP Stack trace:
+[20-Dec-2022 19:52:30 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[20-Dec-2022 19:52:30 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[20-Dec-2022 19:52:30 UTC] PHP   3. wp() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:16
+[20-Dec-2022 19:52:30 UTC] PHP   4. WP->main() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\functions.php:1332
+[20-Dec-2022 19:52:30 UTC] PHP   5. WP->parse_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:780
+[20-Dec-2022 19:52:30 UTC] PHP   6. do_action_ref_array() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp.php:399
+[20-Dec-2022 19:52:30 UTC] PHP   7. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:565
+[20-Dec-2022 19:52:30 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[20-Dec-2022 19:52:30 UTC] PHP   9. rest_api_loaded() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[20-Dec-2022 19:52:30 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api.php:410
+[20-Dec-2022 19:52:30 UTC] PHP  11. WP_REST_Server->send_headers() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:475
+[20-Dec-2022 19:52:30 UTC] PHP  12. WP_REST_Server->send_header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1764
+[20-Dec-2022 19:52:30 UTC] PHP  13. header() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php:1752
+[20-Dec-2022 20:09:38 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php on line 54
+[20-Dec-2022 20:09:38 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php on line 54
+[21-Dec-2022 12:54:55 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\search.php on line 5
+[21-Dec-2022 15:31:21 UTC] PHP Parse error:  syntax error, unexpected ''rewrite'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university-post-types.php on line 26
+[21-Dec-2022 16:42:14 UTC] PHP Parse error:  syntax error, unexpected 'add_action' (T_STRING) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 124
+[21-Dec-2022 16:42:30 UTC] PHP Parse error:  syntax error, unexpected 'add_action' (T_STRING) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 124
+[21-Dec-2022 16:42:32 UTC] PHP Parse error:  syntax error, unexpected 'add_action' (T_STRING) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 124
+[21-Dec-2022 16:43:14 UTC] PHP Parse error:  syntax error, unexpected 'add_action' (T_STRING) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 124
+[21-Dec-2022 16:43:38 UTC] PHP Parse error:  syntax error, unexpected 'add_action' (T_STRING) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 124
+[21-Dec-2022 16:44:17 UTC] PHP Parse error:  syntax error, unexpected 'add_action' (T_STRING) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 124
+[21-Dec-2022 16:44:30 UTC] PHP Parse error:  syntax error, unexpected 'add_action' (T_STRING) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 124
+[21-Dec-2022 16:44:32 UTC] PHP Parse error:  syntax error, unexpected 'add_action' (T_STRING) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 124
+[21-Dec-2022 16:49:45 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 132
+[21-Dec-2022 16:49:45 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 132
+[22-Dec-2022 12:55:16 UTC] PHP Parse error:  syntax error, unexpected ''meta_query'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single-professor.php on line 20
+[09-Jan-2023 20:52:34 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'WordCountAndTimePlugin' does not have a method 'charactercountHTML' in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\includes\template.php on line 1785
+[09-Jan-2023 20:52:34 UTC] PHP Stack trace:
+[09-Jan-2023 20:52:34 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\options-general.php:0
+[09-Jan-2023 20:52:34 UTC] PHP   2. require_once() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\options-general.php:10
+[09-Jan-2023 20:52:34 UTC] PHP   3. do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\admin.php:259
+[09-Jan-2023 20:52:34 UTC] PHP   4. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:517
+[09-Jan-2023 20:52:34 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[09-Jan-2023 20:52:34 UTC] PHP   6. WordCountAndTimePlugin->ourHTML() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[09-Jan-2023 20:52:34 UTC] PHP   7. do_settings_sections() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php:75
+[09-Jan-2023 20:52:34 UTC] PHP   8. do_settings_fields() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\includes\template.php:1739
+[09-Jan-2023 20:52:34 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'WordCountAndTimePlugin' does not have a method 'readtimeHTML' in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\includes\template.php on line 1785
+[09-Jan-2023 20:52:34 UTC] PHP Stack trace:
+[09-Jan-2023 20:52:34 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\options-general.php:0
+[09-Jan-2023 20:52:34 UTC] PHP   2. require_once() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\options-general.php:10
+[09-Jan-2023 20:52:34 UTC] PHP   3. do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\admin.php:259
+[09-Jan-2023 20:52:34 UTC] PHP   4. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:517
+[09-Jan-2023 20:52:34 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[09-Jan-2023 20:52:34 UTC] PHP   6. WordCountAndTimePlugin->ourHTML() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[09-Jan-2023 20:52:34 UTC] PHP   7. do_settings_sections() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php:75
+[09-Jan-2023 20:52:34 UTC] PHP   8. do_settings_fields() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\includes\template.php:1739
+[09-Jan-2023 20:53:23 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'WordCountAndTimePlugin' does not have a method 'readtimeHTML' in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\includes\template.php on line 1785
+[09-Jan-2023 20:53:23 UTC] PHP Stack trace:
+[09-Jan-2023 20:53:23 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\options-general.php:0
+[09-Jan-2023 20:53:23 UTC] PHP   2. require_once() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\options-general.php:10
+[09-Jan-2023 20:53:23 UTC] PHP   3. do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\admin.php:259
+[09-Jan-2023 20:53:23 UTC] PHP   4. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:517
+[09-Jan-2023 20:53:23 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[09-Jan-2023 20:53:23 UTC] PHP   6. WordCountAndTimePlugin->ourHTML() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[09-Jan-2023 20:53:23 UTC] PHP   7. do_settings_sections() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php:79
+[09-Jan-2023 20:53:23 UTC] PHP   8. do_settings_fields() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\includes\template.php:1739
+[10-Jan-2023 14:28:53 UTC] PHP Parse error:  syntax error, unexpected '$wordCount' (T_VARIABLE) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php on line 42
+[10-Jan-2023 15:10:35 UTC] PHP Fatal error:  Cannot redeclare OurWordFilterPlugin::wordFilterPage() in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\plugins\our-word-filter-plugin\index.php on line 31
+[10-Jan-2023 15:10:35 UTC] PHP Stack trace:
+[10-Jan-2023 15:10:35 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php:0
+[10-Jan-2023 15:10:35 UTC] PHP   2. require_once() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php:22
+[10-Jan-2023 15:10:35 UTC] PHP   3. require_once() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-load.php:50
+[10-Jan-2023 15:10:35 UTC] PHP   4. require_once() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-config.php:93
+[10-Jan-2023 16:29:25 UTC] PHP Warning:  Use of undefined constant a - assumed 'a' (this will throw an Error in a future version of PHP) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\plugins\our-word-filter-plugin\index.php on line 21
+[10-Jan-2023 16:29:25 UTC] PHP Stack trace:
+[10-Jan-2023 16:29:25 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:0
+[10-Jan-2023 16:29:25 UTC] PHP   2. require() C:\Users\TFara\Local Sites\fictional-university\app\public\index.php:17
+[10-Jan-2023 16:29:25 UTC] PHP   3. require_once() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-blog-header.php:19
+[10-Jan-2023 16:29:25 UTC] PHP   4. include() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:106
+[10-Jan-2023 16:29:25 UTC] PHP   5. the_content() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single-event.php:16
+[10-Jan-2023 16:29:25 UTC] PHP   6. apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\post-template.php:255
+[10-Jan-2023 16:29:25 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:205
+[10-Jan-2023 16:29:25 UTC] PHP   8. OurWordFilterPlugin->filterLogic() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:308
+[10-Jan-2023 16:33:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function submit_buttom() in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\plugins\our-word-filter-plugin\index.php:87
+Stack trace:
+#0 C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(308): OurWordFilterPlugin->optionsSubPage('')
+#1 C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\admin.php(259): do_action('word-filter_pag...')
+#4 {main}
+  thrown in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\plugins\our-word-filter-plugin\index.php on line 87
+[10-Jan-2023 16:35:38 UTC] PHP Parse error:  syntax error, unexpected 'action' (T_STRING) in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\plugins\our-word-filter-plugin\index.php on line 17
+[10-Jan-2023 16:36:39 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, array must have exactly two members in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php on line 308
+[10-Jan-2023 16:36:39 UTC] PHP Stack trace:
+[10-Jan-2023 16:36:39 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php:0
+[10-Jan-2023 16:36:39 UTC] PHP   2. do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php:45
+[10-Jan-2023 16:36:39 UTC] PHP   3. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:517
+[10-Jan-2023 16:36:39 UTC] PHP   4. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[10-Jan-2023 16:38:14 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, array must have exactly two members in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php on line 308
+[10-Jan-2023 16:38:14 UTC] PHP Stack trace:
+[10-Jan-2023 16:38:14 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php:0
+[10-Jan-2023 16:38:14 UTC] PHP   2. do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php:45
+[10-Jan-2023 16:38:14 UTC] PHP   3. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:517
+[10-Jan-2023 16:38:14 UTC] PHP   4. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[10-Jan-2023 16:39:14 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, array must have exactly two members in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php on line 308
+[10-Jan-2023 16:39:14 UTC] PHP Stack trace:
+[10-Jan-2023 16:39:14 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php:0
+[10-Jan-2023 16:39:14 UTC] PHP   2. do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php:45
+[10-Jan-2023 16:39:14 UTC] PHP   3. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:517
+[10-Jan-2023 16:39:14 UTC] PHP   4. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[10-Jan-2023 16:40:14 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, array must have exactly two members in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php on line 308
+[10-Jan-2023 16:40:14 UTC] PHP Stack trace:
+[10-Jan-2023 16:40:14 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php:0
+[10-Jan-2023 16:40:14 UTC] PHP   2. do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php:45
+[10-Jan-2023 16:40:14 UTC] PHP   3. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:517
+[10-Jan-2023 16:40:14 UTC] PHP   4. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[10-Jan-2023 16:41:14 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, array must have exactly two members in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php on line 308
+[10-Jan-2023 16:41:14 UTC] PHP Stack trace:
+[10-Jan-2023 16:41:14 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php:0
+[10-Jan-2023 16:41:14 UTC] PHP   2. do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php:45
+[10-Jan-2023 16:41:14 UTC] PHP   3. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:517
+[10-Jan-2023 16:41:14 UTC] PHP   4. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[10-Jan-2023 16:42:01 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\plugins\our-word-filter-plugin\index.php on line 26
+[10-Jan-2023 16:42:01 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\plugins\our-word-filter-plugin\index.php on line 26
+[10-Jan-2023 16:42:21 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, array must have exactly two members in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php on line 308
+[10-Jan-2023 16:42:21 UTC] PHP Stack trace:
+[10-Jan-2023 16:42:21 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\admin.php:0
+[10-Jan-2023 16:42:21 UTC] PHP   2. do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\admin.php:175
+[10-Jan-2023 16:42:21 UTC] PHP   3. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:517
+[10-Jan-2023 16:42:21 UTC] PHP   4. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[10-Jan-2023 16:43:21 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, array must have exactly two members in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php on line 308
+[10-Jan-2023 16:43:21 UTC] PHP Stack trace:
+[10-Jan-2023 16:43:21 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php:0
+[10-Jan-2023 16:43:21 UTC] PHP   2. do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php:45
+[10-Jan-2023 16:43:21 UTC] PHP   3. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:517
+[10-Jan-2023 16:43:21 UTC] PHP   4. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[10-Jan-2023 16:44:21 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, array must have exactly two members in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php on line 308
+[10-Jan-2023 16:44:21 UTC] PHP Stack trace:
+[10-Jan-2023 16:44:21 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php:0
+[10-Jan-2023 16:44:21 UTC] PHP   2. do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php:45
+[10-Jan-2023 16:44:21 UTC] PHP   3. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:517
+[10-Jan-2023 16:44:21 UTC] PHP   4. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[10-Jan-2023 16:44:41 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, array must have exactly two members in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php on line 308
+[10-Jan-2023 16:44:41 UTC] PHP Stack trace:
+[10-Jan-2023 16:44:41 UTC] PHP   1. {main}() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\admin.php:0
+[10-Jan-2023 16:44:41 UTC] PHP   2. do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\admin.php:175
+[10-Jan-2023 16:44:41 UTC] PHP   3. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:517
+[10-Jan-2023 16:44:41 UTC] PHP   4. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
