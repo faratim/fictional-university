@@ -619,3 +619,5 @@ Stack trace:
 [10-Jan-2023 16:44:41 UTC] PHP   2. do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-admin\admin.php:175
 [10-Jan-2023 16:44:41 UTC] PHP   3. WP_Hook->do_action() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\plugin.php:517
 [10-Jan-2023 16:44:41 UTC] PHP   4. WP_Hook->apply_filters() C:\Users\TFara\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:332
+[11-Jan-2023 15:28:57 UTC] PHP Parse error:  syntax error, unexpected '' and the grass is '' (T_CONSTANT_ENCAPSED_STRING), expecting ';' in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\plugins\are-you-paying-attention\index.php on line 29
+[11-Jan-2023 15:29:56 UTC] PHP Parse error:  syntax error, unexpected '' and the grass is '' (T_CONSTANT_ENCAPSED_STRING), expecting ';' in C:\Users\TFara\Local Sites\fictional-university\app\public\wp-content\plugins\are-you-paying-attention\index.php on line 29
